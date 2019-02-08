@@ -1,0 +1,188 @@
+{
+  "nav": [{
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat 0 0",
+      "txt": "电动轮椅"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -67px 0",
+      "txt": "老年代步车"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -137px 0",
+      "txt": "上楼设备"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -206px 0",
+      "txt": "康复护理"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat 0 -64px",
+      "txt": "轮椅租赁"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -67px -64px",
+      "txt": "维修配件"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -137px -64px",
+      "txt": "供应信息"
+    },
+    {
+      "img": "url(./src/assets/images/homenav_icon_01.png) no-repeat -206px -64px",
+      "txt": "评测中心"
+    }
+  ],
+  "cont": {
+    "con1": {
+      "type1": [{
+          "url": "http://www.baidu.com",
+          "str": "私人订制"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "电动轮椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "老年代步车"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "手动轮椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "休闲运动轮椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "助行器"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "轮椅租赁"
+        }
+      ],
+      "brand": [
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg"
+      ]
+    },
+    "con2": {
+      "type1": [{
+          "url": "http://www.baidu.com",
+          "str": "电动爬楼车"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "爬楼轮椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "座椅电梯"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "升降平台"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "无障碍坡道"
+        }
+      ],
+      "brand": [
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg"
+      ]
+    },
+    "con3": {
+      "type1": [{
+          "url": "http://www.baidu.com",
+          "str": "坐垫"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "拐杖"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "坐便椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "沐浴椅"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "病床卓"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "马桶辅助器"
+        }
+      ],
+      "brand": [
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg"
+      ]
+    },
+    "con4": {
+      "type1": [{
+          "url": "http://www.baidu.com",
+          "str": "电动轮椅配件"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "手动轮椅配件"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "代步车配件"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "助民改装服务"
+        },
+        {
+          "url": "http://www.baidu.com",
+          "str": "行业新闻"
+        }
+      ],
+      "brand": [
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg",
+        "./src/assets/images/LunYi.jpg"
+      ]
+    }
+  }
+}
